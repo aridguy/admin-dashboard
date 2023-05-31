@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-dashboard/static/css/main.26d25412.css",
+    "main.js": "/admin-dashboard/static/js/main.cd170bbc.js",
+    "index.html": "/admin-dashboard/index.html",
+    "main.26d25412.css.map": "/admin-dashboard/static/css/main.26d25412.css.map",
+    "main.cd170bbc.js.map": "/admin-dashboard/static/js/main.cd170bbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26d25412.css",
+    "static/js/main.cd170bbc.js"
+  ]
+}
